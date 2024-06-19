@@ -4,4 +4,4 @@
 https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset
 
 ## Demo link
-https://www.veed.io/view/7384cb3e-6a8e-4afe-b24f-c947ffd6691f?panel=share
+https://drive.google.com/file/d/1LhlLuOb6ygMfvBELuSJobvlGNA8vJYFA/view?usp=sharing
